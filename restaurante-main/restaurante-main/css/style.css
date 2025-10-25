@@ -80,3 +80,56 @@ body{
     background-image: linear-gradient(rgb(82, 25, 25), rgb(77, 53, 26));
     color: antiquewhite;
 }
+
+#menu ul li a{
+    text-decoration: none;
+    color: rgb(66, 44, 14);
+}
+
+.produto img{
+    width: 250px;
+    height: 250px;
+}
+
+.produto{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 55px;
+    color: rgb(71, 50, 21);
+}
+
+#centro{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr{
+    background-color: black;
+}
+
+.y img{
+    height: 190px;
+}
+
+.y{
+    background-image: linear-gradient(pink, rgb(235, 175, 227));   
+}
+
+.x{
+    background-color: rgb(71, 50, 21);
+    color: antiquewhite;
+}
+
+.a{
+    background-color: rgb(71, 50, 21);
+    color: antiquewhite;
+}
+
+.x img{
+    height: 100px;
+    width: 100px;
+}
+.p{
+    text-align: center;
+    background-color: pink;
+}
